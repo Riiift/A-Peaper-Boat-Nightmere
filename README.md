@@ -1,2 +1,2 @@
 # A-Peaper-Boat-Nightmere
-Crash-Like Mobile Game
+# Projecto para la Escuela Multimedial Davinci ( Nicolas castagnola, Fabrizio Bellochi)
